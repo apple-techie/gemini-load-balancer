@@ -64,7 +64,7 @@ The application requires minimal configuration:
 ```env
 # Server Configuration
 # The port number the application will run on
-PORT=4265
+PORT=4266
 
 # Admin Login
 # Password to access the admin dashboard
